@@ -68,5 +68,3 @@ If you use this code, a simple credit or mention would be greatly appreciated. T
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
