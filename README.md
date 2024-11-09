@@ -60,7 +60,11 @@ This game was built using **Object-Oriented Programming (OOP)**, with each key e
 ---
 
 ## 🤝 Contributions
-Contributions are welcome! If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
+
+Contributions are welcome! If you find a bug, have an idea for improvement, or want to use part of this code in your own project, please feel free to contact me or open an issue. 
+
+If you use this code, a simple credit or mention would be greatly appreciated. Thank you for supporting open-source projects!
+
 
 ---
 
