@@ -10,6 +10,8 @@
 - 🚀 **Dynamic level progression**: As you cross the highway, the level increases, speeding up the traffic.
 - 🕹️ **Retro graphics and animations**: Simple graphics bring a nostalgic feel to the game.
 
+---
+
 ## 📸 Screenshot
 ![Cross the Road Gameplay](screenshots/image.png) 
 
