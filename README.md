@@ -11,7 +11,7 @@
 - 🕹️ **Retro graphics and animations**: Simple graphics bring a nostalgic feel to the game.
 
 ## 📸 Screenshot
-![Cross the Road Gameplay](link_to_your_screenshot.png)  
+![Cross the Road Gameplay]([link_to_your_screenshot.png](https://private-user-images.githubusercontent.com/91621520/384624801-7e29c97e-3864-4508-aae5-08977663a740.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzExNzA2MDgsIm5iZiI6MTczMTE3MDMwOCwicGF0aCI6Ii85MTYyMTUyMC8zODQ2MjQ4MDEtN2UyOWM5N2UtMzg2NC00NTA4LWFhZTUtMDg5Nzc2NjNhNzQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA5VDE2MzgyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3OWUxYzU3NTg4NWYzMjgxNDc2MGRhMWEyZThlNzFkMDRkYWIyMmU3ZGY0MTMwOWRjMmNlOTllYzIxYjhjMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fgJM5DYgAu_D-4a_Wo9T1oWI49YApRsCQd9Ls0_to_E))  
 *(Replace with a link to your screenshot)*
 
 ---
