@@ -23,10 +23,11 @@ Follow these steps to set up and run the game locally.
 - **Python** (version 3.x)
 - **Turtle Graphics** (comes pre-installed with Python)
 
-### 📥 Installation
-1. **Clone the repository**: `git clone https://github.com/yourusername/CrossTheRoad.git`
-2. **Navigate into the project directory**: `cd CrossTheRoad`
+### 🛠️ Installation
+1. **Clone the repository**: `git clone https://github.com/RuginaAlex/RoadRusher.git`
+2. **Navigate into the project directory**: `cd Turtle\ Crossing`
 3. **Run the game**: `python main.py`
+`
 
 ---
 
