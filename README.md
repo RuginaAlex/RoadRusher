@@ -13,8 +13,8 @@
 ---
 
 ## 📸 Screenshot
-![Cross the Road Gameplay](screenshots/image.png) 
-
+![Cross the Road Gameplay](screenshots/image.png)  
+*(Replace `screenshots/image.png` with the actual path to your screenshot if different)*
 
 ---
 
@@ -29,7 +29,6 @@ Follow these steps to set up and run the game locally.
 1. **Clone the repository**: `git clone https://github.com/RuginaAlex/RoadRusher.git`
 2. **Navigate into the project directory**: `cd Turtle\ Crossing`
 3. **Run the game**: `python main.py`
-`
 
 ---
 
@@ -54,6 +53,36 @@ This game was built using **Object-Oriented Programming (OOP)**, with each key e
 
 ---
 
+## 📜 Development History
+
+This section provides a visual history of the project's development, showcasing how the game evolved over time.
+
+### 1️⃣ Initial Prototype
+In the initial version, the game had basic graphics and minimal functionality. Only the player and the background were implemented.
+
+![Initial Version](screenshots/initial_version.png)  
+*Basic prototype with minimal graphics and basic movement.*
+
+### 2️⃣ Adding Obstacles
+The next stage introduced moving obstacles (cars) with simple rectangular shapes, which added an initial level of challenge.
+
+![Obstacles Added](screenshots/obstacles_added.png)  
+*Obstacles were added, giving players a reason to avoid collisions.*
+
+### 3️⃣ Improved Graphics and Level Progression
+Graphics were improved by adding pixel-art vehicles and a "level-up" mechanic. Players now see their progress after each successful crossing.
+
+![Graphics and Levels](screenshots/graphics_levels.png)  
+*Improved visuals with pixel-art cars and a level-up system to increase difficulty.*
+
+### 4️⃣ Final Version
+The final version includes enhanced graphics, animations, score tracking, and a "GO!" signal to indicate when the game is ready to start.
+
+![Final Version](screenshots/final_version.png)  
+*Final version with all features implemented: traffic, levels, animations, and scoring.*
+
+---
+
 ## 📚 Key Concepts Demonstrated
 - **Object-Oriented Programming (OOP)**: Implemented core classes (`Player`, `CarManager`, `Scoreboard`, `BackgroundSetter`) to organize and modularize code.
 - **Encapsulation**: Each class encapsulates specific functionalities and properties, promoting clean code.
@@ -67,6 +96,8 @@ Contributions are welcome! If you find a bug, have an idea for improvement, or w
 
 If you use this code, a simple credit or mention would be greatly appreciated. Thank you for supporting open-source projects!
 
-
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
