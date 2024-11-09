@@ -11,7 +11,7 @@
 - 🕹️ **Retro graphics and animations**: Simple graphics bring a nostalgic feel to the game.
 
 ## 📸 Screenshot
-![Cross the Road Gameplay]((https://imgur.com/a/rPa59wR))  
+![Cross the Road Gameplay](https://imgur.com/a/rPa59wR) 
 
 
 ---
