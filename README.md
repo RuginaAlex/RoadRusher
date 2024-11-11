@@ -14,7 +14,6 @@
 
 ## 📸 Screenshot
 ![Cross the Road Gameplay](screenshots/final_version.png)  
-*(Replace `screenshots/image.png` with the actual path to your screenshot if different)*
 
 ---
 
@@ -103,9 +102,10 @@ The final version includes all features: enhanced graphics, animations, score tr
 ![Final Version](screenshots/final_version.png)  
 *Final version with all features implemented: traffic, levels, animations, and scoring.*
 
-### 🎥 Demo Video
-To see the game in action, watch this [demo video](link_to_demo_video).
 
+### 🎥 Demo Video
+
+![Demo Gameplay](screenshots/demo.gif)
 
 ---
 
