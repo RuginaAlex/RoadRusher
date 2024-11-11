@@ -78,7 +78,7 @@ At this stage, graphics were significantly improved. The cars were represented b
 *The player character when alive, ready to cross the road.*
 
 ![Character Dead](walker_graph/dead1.gif)  
-![Character Dead](screenshots/dead2.gif)  
+![Character Dead](walker_graph/dead2.gif)  
 *The player character with two distinct animations upon "death", adding a touch of realism and dynamic feedback.*
 
 This stage also included a "level-up" mechanic, allowing players to experience increased difficulty as they progressed.
