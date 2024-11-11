@@ -102,10 +102,11 @@ The final version includes all features: enhanced graphics, animations, score tr
 ![Final Version](screenshots/final_version.png)  
 *Final version with all features implemented: traffic, levels, animations, and scoring.*
 
-
 ### 🎥 Demo Video
 
-![Demo Gameplay](screenshots/demo.gif)
+<div align="left">
+  <img src="screenshots/demo.gif" alt="Demo Gameplay" width="500">
+</div>
 
 ---
 
