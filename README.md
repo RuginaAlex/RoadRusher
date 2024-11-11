@@ -122,9 +122,3 @@ The final version includes all features: enhanced graphics, animations, score tr
 Contributions are welcome! If you find a bug, have an idea for improvement, or want to use part of this code in your own project, please feel free to contact me or open an issue. 
 
 If you use this code, a simple credit or mention would be greatly appreciated. Thank you for supporting open-source projects!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
