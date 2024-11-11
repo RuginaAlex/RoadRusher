@@ -13,7 +13,7 @@
 ---
 
 ## 📸 Screenshot
-![Cross the Road Gameplay](screenshots/image.png)  
+![Cross the Road Gameplay](screenshots/final_version.png)  
 *(Replace `screenshots/image.png` with the actual path to your screenshot if different)*
 
 ---
@@ -57,29 +57,49 @@ This game was built using **Object-Oriented Programming (OOP)**, with each key e
 
 This section provides a visual history of the project's development, showcasing how the game evolved over time.
 
-### 1️⃣ Initial Prototype
-In the initial version, the game had basic graphics and minimal functionality. Only the player and the background were implemented.
+### 1️⃣ The Beginning
+Everything started with a simple Turtle object on an empty screen. The initial setup was basic—a single turtle icon displayed at the center of a blank, white screen. This small setup marked the start of what would become an interactive game, gradually growing into a multi-level, traffic-dodging adventure.
 
-![Initial Version](screenshots/initial_version.png)  
-*Basic prototype with minimal graphics and basic movement.*
+![Initial Turtle Setup](screenshots/first_step.png)  
+*The very first version: a single Turtle object on an empty canvas.*
 
 ### 2️⃣ Adding Obstacles
 The next stage introduced moving obstacles (cars) with simple rectangular shapes, which added an initial level of challenge.
 
-![Obstacles Added](screenshots/obstacles_added.png)  
+![Obstacles Added](screenshots/second_step.png)  
 *Obstacles were added, giving players a reason to avoid collisions.*
 
-### 3️⃣ Improved Graphics and Level Progression
-Graphics were improved by adding pixel-art vehicles and a "level-up" mechanic. Players now see their progress after each successful crossing.
+### 3️⃣ Improved Graphics and Character Animation
+At this stage, graphics were significantly improved. The cars were represented by pixel-art graphics inspired by **GTA 1**, and the main character was selected from **Hotline Miami**, adding a unique retro touch to the game. The character has two states:
+   - **Alive**: The default state when crossing the road.
+   - **Dead**: Two distinct animations that play when the character collides with a car.
 
-![Graphics and Levels](screenshots/graphics_levels.png)  
-*Improved visuals with pixel-art cars and a level-up system to increase difficulty.*
+![Character Alive](walker_graphic.gif)  
+*The player character when alive, ready to cross the road.*
 
-### 4️⃣ Final Version
-The final version includes enhanced graphics, animations, score tracking, and a "GO!" signal to indicate when the game is ready to start.
+![Character Dead](walker_graph/dead1.gif)  
+![Character Dead](screenshots/dead2.gif)  
+*The player character with two distinct animations upon "death", adding a touch of realism and dynamic feedback.*
+
+This stage also included a "level-up" mechanic, allowing players to experience increased difficulty as they progressed.
+
+### 4️⃣ Road and Environment Creation
+The road and environment were drawn programmatically using **Turtle Graphics**. Here’s a breakdown of how it was done:
+   - **Grass Lanes**: Green rectangles were drawn at the top, middle, and bottom of the screen to represent safe zones where players can rest.
+   - **Road Lanes**: Gray rectangles were drawn between the grass zones to serve as the road. This visual separation makes it clear where the danger zones are.
+   - **Lane Stripes**: Yellow stripes were added along the road to separate lanes and mimic the look of a highway, enhancing the gameplay experience.
+
+These elements were created using the `BackgroundSetter` class, which controlled the Turtle's movement to draw lines and stripes at specific locations on the screen. The Turtle’s `penup()` and `pendown()` methods were used to control when it draws and when it simply moves, allowing precise placement of each road element.
+
+### 5️⃣ Final Version with Demo
+The final version includes all features: enhanced graphics, animations, score tracking, and a "GO!" signal to indicate when the game is ready to start. Additionally, a demo video has been included below to showcase gameplay mechanics and graphics in action.
 
 ![Final Version](screenshots/final_version.png)  
 *Final version with all features implemented: traffic, levels, animations, and scoring.*
+
+### 🎥 Demo Video
+To see the game in action, watch this [demo video](link_to_demo_video).
+
 
 ---
 
