@@ -74,11 +74,17 @@ At this stage, graphics were significantly improved. The cars were represented b
    - **Alive**: The default state when crossing the road.
    - **Dead**: Two distinct animations that play when the character collides with a car.
 
-![Character Alive](walker_graphic.gif)  
+<div align="center">
+  <img src="walker_graphic.gif" alt="Character Alive" width="70">
+</div>
+
 *The player character when alive, ready to cross the road.*
 
-![Character Dead](walker_graph/dead1.gif)  
-![Character Dead](walker_graph/dead2.gif)  
+<div align="center">
+  <img src="walker_graph/dead1.gif" alt="Character Dead Frame 1" width="70">
+  <img src="walker_graph/dead2.gif" alt="Character Dead Frame 2" width="70">
+</div>
+
 *The player character with two distinct animations upon "death", adding a touch of realism and dynamic feedback.*
 
 This stage also included a "level-up" mechanic, allowing players to experience increased difficulty as they progressed.
