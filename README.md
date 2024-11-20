@@ -26,7 +26,7 @@ Follow these steps to set up and run the game locally.
 
 ### 🛠️ Installation
 1. **Clone the repository**: `git clone https://github.com/RuginaAlex/RoadRusher.git`
-2. **Navigate into the project directory**: `cd Turtle\ Crossing`
+2. **Navigate into the project directory**: `cd RoadRusher`
 3. **Run the game**: `python main.py`
 
 ---
